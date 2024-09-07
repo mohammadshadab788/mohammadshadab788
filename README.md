@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analyst
 - 🌱 I’m currently learning regrassion problem
 - 💞️ I’m looking to collaborate on a data scientist
-- 📫 How to reach me by this email mohammadshadabibrahim@gmail.com
+- 📫 To reach me by this email mohammadshadabibrahim@gmail.com
   
 
 
